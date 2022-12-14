@@ -1,2 +1,6 @@
 # Dact
- Arduino nano compatible board with many protection features à la ruggeduino
+
+
+![board](nano.png)
+
+Licensed under CERN-OHL-P
