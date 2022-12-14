@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.8)"
     },
-    "CreationDate": "2022-12-14T23:26:50+01:00"
+    "CreationDate": "2022-12-15T00:43:05+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "rugged_nano",
-      "GUID": "72756767-6564-45f6-9e61-6e6f2e6b6963",
+      "Name": "Dact",
+      "GUID": "44616374-2e6b-4696-9361-645f70636258",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "rugged_nano-F_Cu.gbr",
+      "Path": "Dact-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rugged_nano-B_Cu.gbr",
+      "Path": "Dact-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rugged_nano-F_Paste.gbr",
+      "Path": "Dact-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rugged_nano-B_Paste.gbr",
+      "Path": "Dact-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rugged_nano-F_Silkscreen.gbr",
+      "Path": "Dact-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rugged_nano-B_Silkscreen.gbr",
+      "Path": "Dact-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "rugged_nano-F_Mask.gbr",
+      "Path": "Dact-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "rugged_nano-B_Mask.gbr",
+      "Path": "Dact-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "rugged_nano-Edge_Cuts.gbr",
+      "Path": "Dact-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
