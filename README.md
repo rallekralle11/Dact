@@ -9,4 +9,6 @@ Lacks 5 and 3V pin overvoltage protection, i tried but it wouldn't fit. Amazed i
 
 Of course there are tradeoffs, the onboard 5V regulator can only supply 150mA, there's no reset button and there's no way i could fit pin all identifiers, so i didn't add any.
 
+The 220Ω resistors should ideally be 20ish mA polyfuses with 220Ω of built-in resistance.
+
 Licensed under CERN-OHL-P
