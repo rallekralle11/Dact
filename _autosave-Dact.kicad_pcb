@@ -3155,7 +3155,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0fed1235-90e4-4398-974c-e6b8cbe255a6)
     )
-    (fp_text value "Polyfuse_1A" (at 0 -1.82 90) (layer "B.Fab")
+    (fp_text value "Polyfuse_500mA" (at 0 -1.82 90) (layer "B.Fab")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp be00de88-d117-48ea-bb1b-8f2aa3c571d6)
     )
